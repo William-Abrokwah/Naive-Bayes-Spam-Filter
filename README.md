@@ -5,7 +5,7 @@ A simple spam detection tool using the Naive Bayes algorithm. This project class
 ## Overview
 This project implements a text classification system using the Naive Bayes algorithm to detect spam emails. It processes a dataset of labeled messages, learns the statistical patterns of spam vs. ham, and then predicts new messages accordingly.
 
-## Features
+## 🚀 Features
 - Tokenization and preprocessing of text data
 - Training a multinomial Naive Bayes classifier
 - Evaluation metrics: accuracy, precision, recall, F1-score
