@@ -4,13 +4,12 @@ A simple spam detection tool using the Naive Bayes algorithm. This project class
 
 ## Table of Contents
 
-- [📌 Overview](#overview)
-- [🚀 Features](#features)
-- [⚙️ Installation](#installation)
-- [📂 Dataset](#dataset)
-- [💡 Contributing](#contributing)
-- [📝 License](#license)
-(Need to fix anchors)
+- [📌 Overview](#📌-overview)
+- [🚀 Features](#🚀-features)
+- [⚙️ Installation](#⚙️-installation)
+- [📂 Dataset](#📂-dataset)
+- [💡 Contributing](#💡-contributing)
+- [📝 License](#📝-license)
 
 ## 📌 Overview
 This project implements a spam detection system using a Multinomial Naive Bayes classifier. It processes SMS text messages to classify them as spam or ham (not spam) by leveraging natural language processing techniques and machine learning.
