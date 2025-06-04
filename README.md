@@ -4,7 +4,7 @@ A simple spam detection tool using the Naive Bayes algorithm. This project class
 
 ## Table of Contents
 
-- [📌 Overview](#📌-overview)
+- [📌 Overview](#📌overview)
 - [🚀 Features](#🚀-features)
 - [⚙️ Installation](#⚙️-installation)
 - [📂 Dataset](#📂-dataset)
